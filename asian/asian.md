@@ -2,8 +2,8 @@
 ## Asian
 ---
 Select a specific Asian food:
-## Chinese
-## Japanese
-## Thai
+## [Chinese](https://www.joeshanghairestaurants.com/chinatown.html)
+## [Japanese](https://www.rakuzennyc.com/)
+## [Thai](https://maithainytogo.com/)
 ---
 [Start Over](../home.md)

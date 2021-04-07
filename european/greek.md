@@ -2,7 +2,8 @@
 ## European --> Greek
 ---
 Select a restaurant:
-## [Chicken Feastin](http://www.chicken-feastin.com/)
+## [Omonia Cafe](https://omoniacafe.com/)
+## [Something Greek](https://www.somethingreekonline.com/)
 ---
 Back to European 
 [Start Over](../home.md)

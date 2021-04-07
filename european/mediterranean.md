@@ -7,4 +7,4 @@ Select a restaurant:
 
 ---
 Back to European  
-Start Over
+[Start Over](../home.md)

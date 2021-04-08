@@ -1,8 +1,11 @@
 # Bay Ridge Restaurant Guide
-## Indian
+
+## Indian --> Indian
 ---
-Select a specific Indian food:
+Select a restaurant:
 ## [GBombay Grill](http://eatbombaygrill.com/)
 ## [Halal Indian Food](http://www.halalindianfoodandfalafel.net/)
 ---
+Back to Indian
+
 [Start Over](../home.md)

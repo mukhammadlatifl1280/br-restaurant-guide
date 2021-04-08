@@ -2,7 +2,7 @@
 ## Asian --> Chinese
 ---
 Select a restaurant:
-## Panda https://www.pandabrooklyn.com/
+## [Chopstix](https://www.chopstixofnyc.com/chopstix-bay-ridge)
 ---
 Back to Asian  
 Start Over
